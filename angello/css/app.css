@@ -1,0 +1,15 @@
+.story {
+	width: 200px;
+	background: Silver;
+	border-color: DarkGray;
+	border-style: solid;
+	border-width: 1px;
+}
+
+.sidebar-content {
+	margin: 0 20px;
+}
+
+.story { 
+	padding: 0 10px;
+}
