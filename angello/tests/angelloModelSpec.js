@@ -6,8 +6,8 @@ describe('Service: angelloModel', function() {
 	}));
 
 	describe('#getStatuses', function() {
-		it('should return 3 statuses', function () {
-			expect(modelService.getStatuses().length).toBe(3);
+		it('should return 7 statuses', function () {
+			expect(modelService.getStatuses().length).toBe(7);
 		});
 	});
 });
